@@ -1,0 +1,6 @@
+[submodule "programming2-project1"]
+	path = programming2-project1
+	url = https://github.com/ZiedDev/programming2-project1
+[submodule "programming2-project2"]
+	path = programming2-project2
+	url = https://github.com/ZiedDev/programming2-project2
